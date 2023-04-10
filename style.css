@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: #ffffff;
+}
+p {
+    background-color: rgb(3, 3, 105);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.one {
+    color: #d41b1b;
+    text-align: center;
+    background-color: rgb(19, 111, 192);
+}
+.two {
+    color: aqua;
+    text-align: center;
+    background-color: rgb(127, 16, 131);
+}
+.three {
+    color: rgb(28, 230, 55);
+    text-align: center;
+    background-color: rgb(15, 146, 96);
+}
+img {
+    width: 500px;
+    height: auto;
+}
